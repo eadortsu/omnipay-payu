@@ -25,7 +25,7 @@
         "psr-4": { "Omnipay\\PayU\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "^3@beta",
+        "omnipay/common": "^3.0",
         "openpayu/openpayu_php_sdk": "^2.2"
     },
     "require-dev": {
